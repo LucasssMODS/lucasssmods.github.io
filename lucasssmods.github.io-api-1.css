@@ -24,7 +24,7 @@ body{
 <!--Deseja Comprar O Template Do Site?? Chame No Número: +55 (17) 98805-9041, Não Se Esqueça Que Nosso Site Tem Copyright, Então Não Queira Tentar Copiar hahahahaha ^_^--!>
 */
 .side-bar{
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(255, 0, 0, 0.1);
   backdrop-filter: blur(15px);
   width: 290px;
   height: 100vh;
@@ -45,19 +45,19 @@ body{
 <!--Deseja Comprar O Template Do Site?? Chame No Número: +55 (17) 98805-9041, Não Se Esqueça Que Nosso Site Tem Copyright, Então Não Queira Tentar Copiar hahahahaha ^_^--!>
 */
 ::-webkit-scrollbar-track {
-  background: #f1f1f1;
+  background: #ff0000;
 }
 /*!
 <!--Deseja Comprar O Template Do Site?? Chame No Número: +55 (17) 98805-9041, Não Se Esqueça Que Nosso Site Tem Copyright, Então Não Queira Tentar Copiar hahahahaha ^_^--!>
 */
 ::-webkit-scrollbar-thumb {
-  background: #888;
+  background: #000000;
 }
 /*!
 <!--Deseja Comprar O Template Do Site?? Chame No Número: +55 (17) 98805-9041, Não Se Esqueça Que Nosso Site Tem Copyright, Então Não Queira Tentar Copiar hahahahaha ^_^--!>
 */
 ::-webkit-scrollbar-thumb:hover {
-  background: #555;
+  background: #000000;
 }
 /*!
 <!--Deseja Comprar O Template Do Site?? Chame No Número: +55 (17) 98805-9041, Não Se Esqueça Que Nosso Site Tem Copyright, Então Não Queira Tentar Copiar hahahahaha ^_^--!>
@@ -72,9 +72,10 @@ body{
 <!--Deseja Comprar O Template Do Site?? Chame No Número: +55 (17) 98805-9041, Não Se Esqueça Que Nosso Site Tem Copyright, Então Não Queira Tentar Copiar hahahahaha ^_^--!>
 */
 .side-bar .cartão-inicial p{
-  color: #fff;
   font-weight: 700;
   margin-bottom: 10px;
+  color: #000000;
+  text-shadow: 2px 2px 2px #ff0000;
 }
 /*!
 <!--Deseja Comprar O Template Do Site?? Chame No Número: +55 (17) 98805-9041, Não Se Esqueça Que Nosso Site Tem Copyright, Então Não Queira Tentar Copiar hahahahaha ^_^--!>
@@ -100,7 +101,8 @@ body{
 <!--Deseja Comprar O Template Do Site?? Chame No Número: +55 (17) 98805-9041, Não Se Esqueça Que Nosso Site Tem Copyright, Então Não Queira Tentar Copiar hahahahaha ^_^--!>
 */
 .side-bar .menu .item a{
-  color: #fff;
+  color: #000000;
+  text-shadow: 2px 2px 2px #ff0000;
   font-size: 16px;
   text-decoration: none;
   display: block;
@@ -111,7 +113,7 @@ body{
 <!--Deseja Comprar O Template Do Site?? Chame No Número: +55 (17) 98805-9041, Não Se Esqueça Que Nosso Site Tem Copyright, Então Não Queira Tentar Copiar hahahahaha ^_^--!>
 */
 .side-bar .menu .item a:hover{
-  background: #8621F8;
+  background: #000000;
   transition: 0.3s ease;
 }
 /*!
@@ -151,23 +153,13 @@ body{
 /*!
 <!--Deseja Comprar O Template Do Site?? Chame No Número: +55 (17) 98805-9041, Não Se Esqueça Que Nosso Site Tem Copyright, Então Não Queira Tentar Copiar hahahahaha ^_^--!>
 */
-.close-btn{
-  position: absolute;
-  color: #fff;
-  font-size: 20px;
-  right: 0;
-  margin: 25px;
-  cursor: pointer;
-}
-/*!
-<!--Deseja Comprar O Template Do Site?? Chame No Número: +55 (17) 98805-9041, Não Se Esqueça Que Nosso Site Tem Copyright, Então Não Queira Tentar Copiar hahahahaha ^_^--!>
-*/
 .menu-btn{
   position: absolute;
-  color: #fff;
   font-size: 20px;
   margin: 25px;
   cursor: pointer;
+  color: #000000;
+  text-shadow: 2px 2px 2px #ff0000;
 }
 /*!
 <!--Deseja Comprar O Template Do Site?? Chame No Número: +55 (17) 98805-9041, Não Se Esqueça Que Nosso Site Tem Copyright, Então Não Queira Tentar Copiar hahahahaha ^_^--!>
@@ -178,15 +170,6 @@ body{
   justify-content: center;
   align-items: center;
   padding: 50px;
-}
-/*!
-<!--Deseja Comprar O Template Do Site?? Chame No Número: +55 (17) 98805-9041, Não Se Esqueça Que Nosso Site Tem Copyright, Então Não Queira Tentar Copiar hahahahaha ^_^--!>
-*/
-.main h1{
-  color:  #fff;
-  font-size: 50px;
-  text-align: center;
-  line-height: 80px;
 }
 /*!
 <!--Deseja Comprar O Template Do Site?? Chame No Número: +55 (17) 98805-9041, Não Se Esqueça Que Nosso Site Tem Copyright, Então Não Queira Tentar Copiar hahahahaha ^_^--!>
